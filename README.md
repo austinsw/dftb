@@ -7,5 +7,5 @@
 
 `conda activate <env_name>` to activate env
 
-`conda deatcivate` to deactivate env
+`conda deactivate` to deactivate env
 
