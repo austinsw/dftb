@@ -3,6 +3,15 @@
 
 ## History
 
+### Test with Example
+
+`dftb+ | tee output` input file must be called *dftb_in.hsd*
+
+(ERROR: SK file '../../slakos/mio-ext/O-O.skf' does not exist') Easy solve by changing the directory path
+
+
+### Installation
+
 `conda info --envs` check envs
 
 `conda create --name <env_name>` to create new env
