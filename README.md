@@ -9,6 +9,8 @@
 
 (ERROR: SK file '../../slakos/mio-ext/O-O.skf' does not exist') Easy solve by changing the directory path
 
+Example: https://dftbplus-recipes.readthedocs.io/en/latest/index.html
+
 
 ### Installation
 
